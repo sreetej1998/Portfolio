@@ -19,7 +19,7 @@ const useStyles = makeStyles((theme) => ({
     '&': {
       backgroundColor: 'white',
       boxShadow: 'none',
-      opacity: 0.4,
+      opacity: 0.8,
       '&:hover': {
         opacity: 1,
         backgroundColor: 'white',
