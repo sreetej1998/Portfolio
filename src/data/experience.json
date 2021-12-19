@@ -1,0 +1,37 @@
+{
+  "experience": [
+    {
+      "id": 0,
+      "link": "https://www.zemosolabs.com/",
+      "company": "ZeMoSo Technologies",
+      "title": "Software Engineer",
+      "dateFrom": "July 2020",
+      "dateTo": "Present",
+      "info": [
+        "Contributor in integrating an Electronic Lab Notebook with a cloud lab platform so that scientists can model chemical reactions in the notebook and push them as tasks to be executed in the cloud lab",
+        "Worked on transitioning a Robotics cloud lab into a group of microservices, making the application environment more scalable"
+      ],
+      "stack": ["Python", "Ruby on Rails", "Node.js", "React"],
+      "logoheight": 80,
+      "colourPrimary": "linear-gradient(to bottom, #f4592b, #f28d25)",
+      "colourSecondary": "linear-gradient(to bottom, #f4592b, #f28d25)"
+    },
+    {
+      "id": 1,
+      "link": "https://myperfectice.com/",
+      "company": "Perfectice",
+      "title": "Backend Developer",
+      "dateFrom": "Mar 2019",
+      "dateTo": "Jun 2019",
+      "info": [
+        "Developing REST APIs for a educational AI skill  growth platform",
+        "Automation scripts for generating user artifacts and cleaning production environment",
+        "Worked on Python, Node js and Mongo DB, optimized queries"
+      ],
+      "stack": ["Flask", "Python", "Web development", "Automation Scripts"],
+      "logowidth": 80,
+      "colourPrimary": "linear-gradient(to bottom, #465a90, #1e3470)",
+      "colourSecondary": "linear-gradient(to bottom, #465a90, #1e3470)"
+    }
+  ]
+}
