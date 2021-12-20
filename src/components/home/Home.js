@@ -38,9 +38,7 @@ const useStyles = makeStyles((theme) => ({
 const Home = () => {
   const classes = useStyles();
   const [imageLoaded, setImageLoaded] = useState(false);
-  const onClickDownload = () => {
 
-  }
   return (
     <>
 
@@ -49,7 +47,7 @@ const Home = () => {
 
         <Particles className="particles" params={config.particles} />
         
-        <div className={`greeting${!imageLoaded ? ' hide' : ''}`}>
+        <div className={`greeting`}>
           <Fade bottom distance="40px">
             <img
               className="profile"
