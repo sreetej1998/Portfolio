@@ -63,9 +63,8 @@ const Home = () => {
             </h1>
             <h3 className="greeting-text">
               <div>
-                Experienced Software Engineer with a demonstrated history of working in the information technology and services industry.
+                I am currently a CS grad student at UCI, and I am software engineer with a history of working in the information technology and services industry.
                 Worked on products that apply computer science to disciplines like Biotechnology and Robotics.
-                Passionate about distributed and decentralized systems.
               </div>
             </h3>
             

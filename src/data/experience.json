@@ -4,9 +4,9 @@
       "id": 0,
       "link": "https://www.google.com/search?q=zemoso",
       "company": "ZeMoSo Technologies",
-      "title": "Software Engineer",
-      "dateFrom": "July 2020",
-      "dateTo": "Present",
+      "title": "Software Engineer II",
+      "dateFrom": "Jul 2020",
+      "dateTo": "Aug 2022",
       "info": [
         "Worked on transitioning a Monolithic Robotics cloud lab into a group of microservices, making the application environment more scalable",
         "Contributor in integrating an Electronic Lab Notebook with a cloud lab platform so that scientists can model chemical reactions in the notebook and push them as tasks to be executed in the cloud lab"
