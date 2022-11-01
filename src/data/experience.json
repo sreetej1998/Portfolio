@@ -11,7 +11,7 @@
         "Worked on transitioning a Monolithic Robotics cloud lab into a group of microservices, making the application environment more scalable",
         "Contributor in integrating an Electronic Lab Notebook with a cloud lab platform so that scientists can model chemical reactions in the notebook and push them as tasks to be executed in the cloud lab"
       ],
-      "stack": ["Python", "Ruby on Rails", "Node.js", "React"],
+      "stack": ["Spring Boot", "Python", "Ruby on Rails", "Node.js", "React"],
       "logoheight": 80,
       "colourPrimary": "linear-gradient(to bottom, #f4592b, #f28d25)",
       "colourSecondary": "linear-gradient(to bottom, #f4592b, #f28d25)"
